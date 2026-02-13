@@ -36,7 +36,6 @@ Contributions welcome! See [Contributing](#contributing).
 ### Online
 
 - [Israeli Startups (Slack)](https://slofile.com/slack/israelistartups) — Active Slack community for Israeli startup professionals. | קהילת Slack לאנשי סטארט-אפ ישראלים.
-- [Israeli Web Developers (Discord)](https://discord.me/j6yww) — Discord server for Israeli web developers. | שרת Discord למפתחי אתרים ישראלים.
 - [Israel Designers (Discord)](https://discord.com/invite/israel-designers-482119467510530060) — 4,100+ members focused on design and development. | קהילת מעצבים ומפתחים עם למעלה מ-4,100 חברים.
 
 ### Organizations
@@ -122,8 +121,6 @@ Contributions welcome! See [Contributing](#contributing).
 
 - [Internet Israel (אינטרנט ישראל)](https://internet-israel.com/) — Weekly technical blog by Ran Bar-Zik (since 2008). Tutorials on Node.js, React, Raspberry Pi, web programming. | בלוג טכני שבועי מאת רן בר-זיק.
 - [Yonatan Kra](https://yonatankra.com/) — Software development best practices, testing, web technologies. | שיטות עבודה בפיתוח תוכנה, בדיקות, טכנולוגיות אינטרנט.
-- [Software Archiblog](http://www.softwarearchiblog.com/) — Hebrew blog on practical software engineering, Java, and Agile. | בלוג בעברית על הנדסת תוכנה, Java ו-Agile.
-
 ### Tech News
 
 - [Geektime (גיקטיים)](https://www.geektime.co.il/) — Major Israeli tech site covering AI, software, cloud, cybersecurity, startups. | אתר טכנולוגיה ישראלי מרכזי.
