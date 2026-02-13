@@ -121,6 +121,7 @@ Contributions welcome! See [Contributing](#contributing).
 
 - [Internet Israel (אינטרנט ישראל)](https://internet-israel.com/) — Weekly technical blog by Ran Bar-Zik (since 2008). Tutorials on Node.js, React, Raspberry Pi, web programming. | בלוג טכני שבועי מאת רן בר-זיק.
 - [Yonatan Kra](https://yonatankra.com/) — Software development best practices, testing, web technologies. | שיטות עבודה בפיתוח תוכנה, בדיקות, טכנולוגיות אינטרנט.
+
 ### Tech News
 
 - [Geektime (גיקטיים)](https://www.geektime.co.il/) — Major Israeli tech site covering AI, software, cloud, cybersecurity, startups. | אתר טכנולוגיה ישראלי מרכזי.
