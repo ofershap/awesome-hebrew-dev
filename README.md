@@ -6,6 +6,15 @@
 >
 > רשימה אוצרת של משאבים למפתחים בעברית — קהילות, פודקאסטים, פלטפורמות לימוד, כנסים וכלים.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="awesome-hebrew-dev demo" width="600" />
+</p>
+
+
+<p align="center">
+  <img src="assets/demo.gif" alt="awesome-hebrew-dev demo" width="600" />
+</p>
+
 Contributions welcome! See [Contributing](#contributing).
 
 ---
