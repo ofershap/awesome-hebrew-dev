@@ -1,9 +1,10 @@
 # Awesome Hebrew Dev 🇮🇱
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of Hebrew developer resources — communities, podcasts, learning platforms, conferences, and tools.
->
+Everything a Hebrew-speaking developer needs in one place — communities, podcasts, courses, conferences, open source, and job boards.
+
 > רשימה אוצרת של משאבים למפתחים בעברית — קהילות, פודקאסטים, פלטפורמות לימוד, כנסים וכלים.
 
 ![Demo](assets/demo.gif)
