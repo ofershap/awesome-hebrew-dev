@@ -142,6 +142,13 @@ If you know of a resource that should be listed here, open a PR or an issue.
 
 ---
 
+## Author
+
+**Ofer Shapira**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ofershap)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/ofershap)
+
 ## License
 
 [CC0 1.0](LICENSE)
